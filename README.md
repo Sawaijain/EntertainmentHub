@@ -1,3 +1,7 @@
+# Movie App built in React JS and Material UI.
+Runs the app by below link
+Open [https://entertainmenthub11.herokuapp.com/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
